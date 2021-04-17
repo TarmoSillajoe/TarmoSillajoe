@@ -16,7 +16,7 @@ My name is Tarmo Sillajõe. I love to learn tech stuff and put it in practice in
 - TailWind CSS
 
 ### 💞️ I’m looking to collaborate on:
-- open source project where i can add some value
+- open source projects where i can add some value
 
 ### 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/tarmo-sillajoe-65790378)
