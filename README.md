@@ -4,16 +4,16 @@ My name is Tarmo Sillajõe. I love to learn tech stuff and put it in practice in
 
 ### Tools and technologies used:
 - Python
-- TypeScript
-- SQL
+- Django
+- PostgreSQL
 - HTML and CSS
 - Docker
 - Visual Studio Code
 
 ### 🌱 I’m currently learning:
+- Typescript
 - HTMX
 - React
-- Django
 - TailWind CSS
 
 ### 💞️ I’m looking to collaborate on:
