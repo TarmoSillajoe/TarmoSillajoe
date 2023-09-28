@@ -11,6 +11,7 @@ My name is Tarmo Sillajõe. I love to learn tech stuff and put it in practice in
 - Visual Studio Code
 
 ### 🌱 I’m currently learning:
+- HTMX
 - React
 - Django
 - TailWind CSS
